@@ -4,9 +4,9 @@ We've developed a model that is capable of predicting the RBC, WBC & Platelets, 
 
 The **Dataset** folder contains images that had been used to train the model.
 
-You can find the **models** that we used to train in the models folder.
+You can find the models that we used to train the model, in the **models** folder.
 
-You can run the model against your own images by using the **Blood smear analysis.ipynb** notebook or by using the Colab notebook provided below. Inorder to use the colab notebook make sure to make a copy of it and save it your drive, and follow along the instructions given there.
+You can run the model against your own images by using the **Blood smear analysis.ipynb** notebook or by using the **Colab notebook** provided below. Inorder to use the colab notebook make sure to make a copy of it and save it your drive, and follow along the instructions given there.
 
 
 <hr>
